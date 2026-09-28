@@ -1,0 +1,2 @@
+# dip
+görüntü işleme
